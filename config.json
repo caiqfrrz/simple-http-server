@@ -1,0 +1,5 @@
+{
+    "server_name": "best-http-server-ever",
+    "blacklist_dir": ["./forbidden"], 
+    "blacklist_files": [""]
+}
